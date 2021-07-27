@@ -1,0 +1,15 @@
+.todoinput {
+  border: none;
+  background-color: #e3e3e3;
+  width: 40%;
+  height: 50px;
+}
+
+.submitbutton {
+  height: 50px;
+  background-color: #3091ff;
+  color: #ffffff;
+  width: 10%;
+  border: none;
+  cursor: pointer;
+}

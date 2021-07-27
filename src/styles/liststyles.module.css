@@ -1,0 +1,13 @@
+.listitem {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  align-items: center;
+  position: relative;
+}
+
+.checkbox {
+  position: absolute;
+  right: 20px;
+}
